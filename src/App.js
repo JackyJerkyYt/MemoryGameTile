@@ -227,7 +227,7 @@ function App() {
       setPlusPoints(5)
     }else if(level === 3){
       setLevelMessage("Hardest")
-      setPlusPoints(20)
+      setPlusPoints(10)
     }
   }, [level])
 
