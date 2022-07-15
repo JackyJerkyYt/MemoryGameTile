@@ -261,7 +261,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1 onClick = {testingHandleClick}>Are You Gold Fish?</h1>
+      <h1 onClick = {testingHandleClick}>Are You a Gold Fish?</h1>
       <button onClick = {playButtonClickinghandler} disabled={playButton}>{buttonMessage}</button>
       <br></br>
       <br></br>
